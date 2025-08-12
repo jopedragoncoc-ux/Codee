@@ -1,0 +1,24 @@
+begin
+   Sit back
+   Pick Up one lace in each hand 
+   A SHOE with laces and the intent to tie then
+   PULL one lace under the other and tighten 
+   MAKE a loop with the right lace
+   WRAP the left lace around the loop 
+   PUll it through to form a second loop
+   TIGHTEN both loops
+   IF loops are tighten THEN
+       done
+   ELSE
+     REPEAT Tying process
+   ENOIF
+END
+
+MEMBER
+JOHN PAUL E. BURLAT
+JONREY P. DRAGON
+ALEXANDER P. REVILLA
+MILES AARON S. POCULAN
+HARVEY A. PANG-ANG
+TAUTO. JOHN PAUL
+JAMES KYLE DELANTES
